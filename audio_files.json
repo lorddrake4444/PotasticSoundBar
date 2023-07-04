@@ -1,0 +1,17 @@
+{
+    "shataan" : "./audio clips/Shataaan.mp3",
+    "skraa" : "./audio clips/SKRAA.mp3",
+    "seagull" : "./audio clips/seagull.mp3",
+    "kettel" : "./audio clips/Kettle.mp3",
+    "birb" : "./audio clips/birdcall.mp3",
+    "scream1" : "./audio clips/ScreamScared.mp3",
+    "scream2" : "./audio clips/scream2.mp3",
+    "yawn" : "./audio clips/yawn.mp3",
+    "burp" : "./audio clips/burp.mp3",
+    "monke" : "./audio clips/monke.mp3",
+    "yandere laugh" : "./audio clips/yandereLaugh.mp3",
+    "gremlin laugh" : "./audio clips/gremlinlaugh.mp3",
+    "gremlin speak" : "./audio clips/idk.mp3",
+    "demon1" : "./audio clips/demonpanda.mp3",
+    "demon2" : "./audio clips/demon2.mp3"
+}
